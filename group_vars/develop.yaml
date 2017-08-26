@@ -1,0 +1,4 @@
+remote_user: root
+
+action_user: ansible
+action_user_pw: password123
